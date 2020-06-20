@@ -1,0 +1,17 @@
+{
+  "symbol": "BGO",
+  "address": "0x92ff989CA9dFD671B93C4b673C4A405DbeDd5B7e",
+  "overview":{
+        "en": "BGO High Performance Application Public BlockChain",
+        "zh": "BGO高性能应用公链"
+  },
+  "email": "blockgoone@gmail.com",
+  "website": "https://www.bgo.one/",
+  "whitepaper": "https://img-ub.oss-ap-southeast-1.aliyuncs.com/BGO.pdf",
+  "published_on": "2019-07-01",
+  "initial_price":{
+        "USD":"0.14 USD",
+  },
+  "links": {
+  }
+}
